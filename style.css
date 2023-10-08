@@ -1,0 +1,11 @@
+button {
+  background-color: #f3970c;
+  border: 6px solid #daf10f;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
